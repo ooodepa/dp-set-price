@@ -9,6 +9,7 @@ export default interface ItemDto {
   dp_seoKeywords: string;
   dp_seoDescription: string;
   dp_itemCategoryId: number;
+  dp_isHidden: boolean;
   dp_itemCharacteristics: ItemCharacteristicDto[];
   dp_itemGalery: ItemGaleryDto[];
 }

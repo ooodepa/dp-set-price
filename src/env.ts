@@ -1,5 +1,5 @@
 const env = {
-  backend__brandUrls: ['mega', 'mega-general'],
+  backend__brandUrls: ['de-pa-electric'],
 };
 
 export default env;

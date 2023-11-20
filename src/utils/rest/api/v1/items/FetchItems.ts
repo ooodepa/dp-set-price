@@ -13,6 +13,7 @@ export default class FetchItems {
       if (query.brand) {
         url += `brand=${query.brand}`;
       }
+      console.log(`GET ${url}`);
 
       const response = await axios.get(url);
       const json: GetItemDto[] = response.data;

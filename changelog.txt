@@ -1,0 +1,4 @@
+2023.11.20 (0.1.0)
+
+- add price data (price.ts)
+- add sets for USD/BYN/RUB

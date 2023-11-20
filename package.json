@@ -1,4 +1,7 @@
 {
+  "name": "dp-set-price",
+  "version": "0.1.0",
+  "license": "GPL-3.0",
   "scripts": {
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,css,scss,md}\"",
     "start": "tsc && node dist/app.js",
